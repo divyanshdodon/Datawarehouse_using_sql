@@ -5,7 +5,7 @@ This Project explains how a simple Data Warehouse Project is created in general.
 
 We have three layers here:
 1) Bronze(Have source data)
-2) Silver (Have tranformed data)
+2) Silver (Have transformed data)
 3) Gold (Data tranformed as per the downstream system)
 
 
